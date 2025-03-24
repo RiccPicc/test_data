@@ -1,6 +1,6 @@
       seqfile = example/case_a.phy          * Path to the alignment file
      treefile = example/case_a.tree         * Path to the tree file
-      outfile = example/case_a.out.txt    * Path to the output file
+      outfile = case_a.out.txt    * Path to the output file
    
         noisy = 3        					* How much rubbish on the screen
       verbose = 1        					* More or less detailed report
